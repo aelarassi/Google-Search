@@ -6,7 +6,7 @@ Google Search — React App
 
 [Online-Demo]
 
-![](screenshot.jpg)
+![](screenshot.png)
 
 ## Tech
 
