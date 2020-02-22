@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>magnify</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Workspace" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Google-Search" transform="translate(-434.000000, -228.000000)" fill="#9AA0A6" fill-rule="nonzero">
+            <g id="input" transform="translate(265.000000, 228.000000)">
+                <path d="M191.285714,0 C203.594286,0 213.571429,9.97714286 213.571429,22.2857143 C213.571429,27.8057143 211.548571,32.88 208.222857,36.7885714 L209.148571,37.7142857 L211.857143,37.7142857 L229,54.8571429 L223.857143,60 L206.714286,42.8571429 L206.714286,40.1485714 L205.788571,39.2228571 C201.88,42.5485714 196.805714,44.5714286 191.285714,44.5714286 C178.977143,44.5714286 169,34.5942857 169,22.2857143 C169,9.97714286 178.977143,0 191.285714,0 L191.285714,0 Z M191.5,7 C182.888889,7 176,13.8888889 176,22.5 C176,31.1111111 182.888889,38 191.5,38 C200.111111,38 207,31.1111111 207,22.5 C207,13.8888889 200.111111,7 191.5,7 Z" id="magnify"></path>
+            </g>
+        </g>
+    </g>
+</svg>
